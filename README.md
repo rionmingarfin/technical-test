@@ -1,5 +1,7 @@
-## how to run this application
-1. 
+## test logic
+1. untuk soal pertama memfilter semua inputan sesuai angka yang ada dan mensord data dari data yang terbesar
+2. membandingkan nilai str[i] dan str[i+ 1] tetapi ditambah 1 jika masuk dalam kategori if count di tambah 1 dan jika masuk kategori else nilai yang sama atau count diambil dan di tambahkan dengan string huruf dan mereset count lagi menajadi 1
+3. menjumlahakan nilai transaction dengan cara mengambl custmer_id dengan nilai yang sama lalu setelah mendapatkan hasil sorting data menjadi descending
 
 ## screnshot code
 <p align='center'>
