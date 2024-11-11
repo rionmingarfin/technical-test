@@ -18,5 +18,5 @@ const filter = obj.sort((a, b) => {
     console.log(dateA)
     return dateA - dateB
 })
-console.log(filter)
+// console.log(filter)
 // console.log(filter)
